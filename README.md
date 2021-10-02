@@ -1,6 +1,6 @@
 # Ayoub_I_Hw-1-Git-andGitHub
 
-# Flamed Kamini Team!!!!!
+# 🔥🔥🔥🔥 Flamed Kamini Team!!!!! 🔥🔥🔥🔥
  
 # Immama and (Ghost)Immama teamed up together to create the best team ever!!!! THE FLAMED KAMINI TEAM!!!! where we both are going to share some epic information on ourselves through websites per person!! Only lucky people get to know extra info about us!!!!!
 
@@ -28,6 +28,8 @@ Immama : `git commit -am'Adding a coolest Bio of the coolest person!!'`
                          git commit -m 'del extra html'
 
                              git commit -m 'updating readme'
+
+                              git commit -m 'add bio & update readme'
 
 
 4. Push to the branch: Immama :  `git push origin  dev.ima.bio`
